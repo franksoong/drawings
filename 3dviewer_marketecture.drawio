@@ -525,7 +525,7 @@
         <mxCell id="xcvrVjH9VjNLTJQysX2v-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="xcvrVjH9VjNLTJQysX2v-1" source="xcvrVjH9VjNLTJQysX2v-47" target="xcvrVjH9VjNLTJQysX2v-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xcvrVjH9VjNLTJQysX2v-47" value="PLMVisWeb&lt;br&gt;JTReader" style="rounded=0;whiteSpace=wrap;html=1;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
+        <mxCell id="xcvrVjH9VjNLTJQysX2v-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PLMVisWeb&lt;br&gt;JTReader&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
           <mxGeometry x="20" y="-901" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xcvrVjH9VjNLTJQysX2v-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="xcvrVjH9VjNLTJQysX2v-1" target="xcvrVjH9VjNLTJQysX2v-42" edge="1">
@@ -538,14 +538,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xcvrVjH9VjNLTJQysX2v-49" value="&lt;font color=&quot;#6666ff&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;bundle&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
-          <mxGeometry x="443" y="-1212" width="64" height="29" as="geometry" />
+        <mxCell id="xcvrVjH9VjNLTJQysX2v-49" value="&lt;font color=&quot;#6666ff&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;bundle&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
+          <mxGeometry x="447" y="-1215" width="77" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="xcvrVjH9VjNLTJQysX2v-52" value="dependency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
+        <mxCell id="xcvrVjH9VjNLTJQysX2v-52" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;dependency&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
           <mxGeometry x="266" y="-958" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jGJ1rJM5XIzi1aimoDn5-1" value="" style="whiteSpace=wrap;html=1;fillColor=#FFFF99;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
-          <mxGeometry x="786" y="-1119" width="99" height="281" as="geometry" />
+          <mxGeometry x="786" y="-1119" width="116" height="281" as="geometry" />
         </mxCell>
         <mxCell id="xcvrVjH9VjNLTJQysX2v-54" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Overview&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
           <mxGeometry x="32" y="-1522" width="60" height="30" as="geometry" />
@@ -562,24 +562,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jGJ1rJM5XIzi1aimoDn5-0" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;TC Related Services&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(Optional&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
-          <mxGeometry x="792" y="-1113" width="88" height="120" as="geometry" />
+          <mxGeometry x="792" y="-1113" width="105" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xcvrVjH9VjNLTJQysX2v-53" value="dependency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
+        <mxCell id="xcvrVjH9VjNLTJQysX2v-53" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;dependency&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
           <mxGeometry x="806" y="-963" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xcvrVjH9VjNLTJQysX2v-51" value="TcConnector" style="rounded=0;whiteSpace=wrap;html=1;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
-          <mxGeometry x="790" y="-904" width="87" height="60" as="geometry" />
+        <mxCell id="xcvrVjH9VjNLTJQysX2v-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;TcConnector&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
+          <mxGeometry x="791" y="-904" width="107" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xcvrVjH9VjNLTJQysX2v-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xcvrVjH9VjNLTJQysX2v-1" source="xcvrVjH9VjNLTJQysX2v-51" edge="1">
+        <mxCell id="xcvrVjH9VjNLTJQysX2v-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="xcvrVjH9VjNLTJQysX2v-1" source="xcvrVjH9VjNLTJQysX2v-51" edge="1" target="jGJ1rJM5XIzi1aimoDn5-0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="833" y="-992" as="targetPoint" />
+            <mxPoint x="838" y="-986" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jGJ1rJM5XIzi1aimoDn5-2" value="our widgets had exposed rich API to get these internal objects, hence user can do any advanced customizations, eg:&amp;nbsp;&lt;div&gt;&lt;ul&gt;&lt;li&gt;hook to the selection event and do any&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;customization behavior&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;access viewer controller to manager viewer behaviors&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;access sgo manager to create and manage any sgos&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;etc.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
           <mxGeometry x="875" y="-684" width="422" height="313" as="geometry" />
         </mxCell>
         <mxCell id="ZT8HCi958Ig3gsfBUyIn-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Mendix 3DViewer For Teamcenter&lt;br&gt;(3DViewer_TC.mpk)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffb366;strokeColor=#d79b00;" vertex="1" parent="xcvrVjH9VjNLTJQysX2v-1">
-          <mxGeometry x="672" y="-1393" width="219" height="80" as="geometry" />
+          <mxGeometry x="672" y="-1393" width="233" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
