@@ -516,11 +516,11 @@
         <mxCell id="xcvrVjH9VjNLTJQysX2v-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="xcvrVjH9VjNLTJQysX2v-1" source="xcvrVjH9VjNLTJQysX2v-44" target="xcvrVjH9VjNLTJQysX2v-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xcvrVjH9VjNLTJQysX2v-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Mendix widgets(js)&lt;br&gt;(viewer, structuretree, pmitree, markup, measurement, section, comments,&amp;nbsp;toolbar items, contextmenu, uploader, settings etc.)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
+        <mxCell id="xcvrVjH9VjNLTJQysX2v-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3DViewer widgets(js)&lt;br&gt;(viewer, structuretree, pmitree, markup, measurement, section, comments,&amp;nbsp;toolbar items, contextmenu, uploader, settings etc.)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCFF;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
           <mxGeometry x="20" y="-1113" width="480" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="xcvrVjH9VjNLTJQysX2v-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Mendix Services (Java)&lt;br&gt;(Services, Rest APIs, etc.)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
-          <mxGeometry x="580" y="-1113" width="209" height="120" as="geometry" />
+        <mxCell id="xcvrVjH9VjNLTJQysX2v-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;3DViewer Services (Java)&lt;br&gt;(Services, Rest APIs, etc.)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="xcvrVjH9VjNLTJQysX2v-1" vertex="1">
+          <mxGeometry x="575" y="-1113" width="209" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xcvrVjH9VjNLTJQysX2v-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="xcvrVjH9VjNLTJQysX2v-1" source="xcvrVjH9VjNLTJQysX2v-47" target="xcvrVjH9VjNLTJQysX2v-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
